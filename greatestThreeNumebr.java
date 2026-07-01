@@ -2,7 +2,7 @@ public class greatestThreeNumebr {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
-        int num3 = 15;
+        int num3 = 16;
 
         if (num1 >= num2 && num1 >= num3) {
             System.out.println(num1 + " is the greatest number.");
